@@ -47,6 +47,14 @@ Then press `P` to open the presenter view.
 
 If your browser blocks popups, allow popups for the page and press `P` again.
 
+### Audience View
+
+![Audience view demo](docs/images/demo1.png)
+
+### Presenter View
+
+![Presenter view demo](docs/images/demo2.png)
+
 ## Quick Start
 
 Copy the runtime files next to your HTML deck:

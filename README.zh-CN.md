@@ -47,6 +47,14 @@ open test-ppt/index.html
 
 如果浏览器拦截弹窗，请允许该页面弹窗后再次按 `P`。
 
+### 观众视图
+
+![观众视图示例](docs/images/demo1.png)
+
+### 演讲者视图
+
+![演讲者视图示例](docs/images/demo2.png)
+
 ## 快速开始
 
 将运行时文件复制到你的 HTML 幻灯片同级目录：
